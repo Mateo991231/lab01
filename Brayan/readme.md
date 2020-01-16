@@ -17,3 +17,13 @@
 print("Hellow World")
 
 ```
+# Datos Academicos 
+**Universidad:** [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/)
+[Image](https://d66g242coom4e.cloudfront.net/uploads/event_page/index_image/6754/thumb600_4._Fachada_Edificio_5.00_p.m._Escuela_Jul_25_2016.jpg)
+**Semestre:** _7_
+**Materias:**
+1. AUPN
+2. TPRO
+3. CVDS
+4. FIEM
+5. CNYT
