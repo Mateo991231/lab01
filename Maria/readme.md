@@ -1,7 +1,7 @@
 # María Fernanda Hernández Vargas
 
-** Ingeniería de Sistemas **
-* Séptimo semestre *
+**Ingeniería de Sistemas**
+*Séptimo semestre*
 
 * Escuela Colomnbiana de Ingenieria  
 * Plan de estudios 14
