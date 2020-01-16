@@ -17,6 +17,6 @@
 
 ![Image](https://image.freepik.com/foto-gratis/mujer-computador-portatil-piso_23-2147953385.jpg)
 
-    # Código
+    ### Código
     3 + 3 = 6
     8 / 2 = 4
