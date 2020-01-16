@@ -1,7 +1,7 @@
 ## Mi Descripcion
 **Mateo Quintero**
 - _20 años_
-- Lugar de nacimiento:  31/12/99
+- Lugar de nacimiento:  31/12/99, Bogota
 # Hobbies
 Estos son mis hobbies favoritos:
 - > Jugar con amigos 
