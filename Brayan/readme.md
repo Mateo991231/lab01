@@ -20,7 +20,7 @@ print("Hellow World")
 # Datos Academicos 
 **Universidad:** [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/)
 ![Image](https://www.elespectador.com/sites/default/files/eci.jpg)
-**Semestre:** _7_
+**Semestre:** _7_/
 **Materias:**
 1. AUPN
 2. TPRO
