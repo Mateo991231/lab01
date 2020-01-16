@@ -13,9 +13,9 @@
 1) ARTT
 1) FCFI
 
-[GitHub] (https://github.com/mariahv9)
+[GitHub](https://github.com/mariahv9)
 
-![Image] (https://image.freepik.com/foto-gratis/mujer-computador-portatil-piso_23-2147953385.jpg)
+![Image](https://image.freepik.com/foto-gratis/mujer-computador-portatil-piso_23-2147953385.jpg)
 
     3 + 3 = 6
     8 / 2 = 4
