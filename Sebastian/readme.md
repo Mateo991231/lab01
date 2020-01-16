@@ -1,7 +1,7 @@
 # Juan Sebastian Ramos Isaza
 **Ingeniería de Sistemas**\
 *Séptimo Semestre*
-* Estudiando en la Escuela Colombiana de Ingeniería.\
+* Estudiando en la Escuela Colombiana de Ingeniería.
 
 ## Materias actuales:
 1) CVDS
