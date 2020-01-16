@@ -11,13 +11,14 @@ Estos son mis hobbies favoritos:
 - ![Image](https://www.infobae.com/new-resizer/QoUyggNN67pHuPBpJOSi_-ToJ3w=/750x0/filters:quality(100)/arc-anglerfish-arc2-prod-infobae.s3.amazonaws.com/public/3M3Q5I42BJCC3GJG75NEQXMJBY.jpg)
 # Mi universidad
 ## **mis materias**
--CNYT
+
 
  1. ACSO
  2. CVDS
  3. CIPP
  4. AUPN
  5. CNYT
+
 Esta es la pagina de mi universidad :
 <https://www.escuelaing.edu.co/es/>
 
