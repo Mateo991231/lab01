@@ -17,6 +17,8 @@
 ## Código
 	print("Hola Mundo!")
 
+## certificado 1
 ![](/lab01/Sebastian/recursos/1.png)
+## certificado 2
 ![](/lab01/Sebastian/recursos/2.png)
 
