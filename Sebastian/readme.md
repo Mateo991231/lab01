@@ -17,6 +17,8 @@
 ## Código
 	print("Hola Mundo!")
 
-![Image](/recursos/1.png)
-![Image](/recursos/2.png)
+## certificado 1
+![](https://github.com/Mateo991231/lab01/blob/master/Sebastian/recursos/1.png)
+## certificado 2
+![](https://github.com/Mateo991231/lab01/blob/master/Sebastian/recursos/2.png)
 
