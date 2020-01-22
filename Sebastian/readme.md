@@ -20,5 +20,5 @@
 ## certificado 1
 ![](https://github.com/Mateo991231/lab01/blob/master/Sebastian/recursos/1.png)
 ## certificado 2
-![](https://github.com/Mateo991231/lab01/blob/master/Sebastian/recursos/2.png)
+![](https://github.com/Mateo991231/lab01/blob/master/Sebastian/recursos/3.png)
 
