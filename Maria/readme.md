@@ -17,6 +17,9 @@
 
 ![Image](https://image.freepik.com/foto-gratis/mujer-computador-portatil-piso_23-2147953385.jpg)
 
+![Image](https://github.com/Mateo991231/lab01/blob/master/Maria/Imagenes/Maria1.png)
+![Image](https://github.com/Mateo991231/lab01/blob/master/Maria/Imagenes/Maria2.png)
+
 ### Código
     print ("Hello World!")
     3 + 3 = 6
