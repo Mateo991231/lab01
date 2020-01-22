@@ -17,3 +17,6 @@
 ## Código
 	print("Hola Mundo!")
 
+![Image](/recursos/1.png)
+![Image](/recursos/2.png)
+
