@@ -28,6 +28,7 @@ Esta es la pagina de mi universidad :
 print("Hello World")
 ```
 
+## PUNTO 3
  
 - ![Image](https://github.com/Mateo991231/lab01/blob/master/Quintero/Sources/Picture1.png)
 - ![Image](https://github.com/Mateo991231/lab01/blob/master/Quintero/Sources/Picture3.png)
