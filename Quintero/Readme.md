@@ -29,4 +29,5 @@ print("Hello World")
 ```
 
  
-
+- ![Image](https://github.com/Mateo991231/lab01/blob/master/Quintero/Sources/Picture1.png)
+- ![Image](https://github.com/Mateo991231/lab01/blob/master/Quintero/Sources/Picture3.png)
