@@ -31,4 +31,4 @@ print("Hellow World")
 **Certificado 1**
 ![Image](https://github.com/Mateo991231/lab01/blob/master/Brayan/data/main.png)
 **Certificado 2**
-![Image](https://github.com/Mateo991231/lab01/blob/master/Brayan/data/remote.png)
+![Image]()
